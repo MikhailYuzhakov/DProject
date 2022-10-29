@@ -1,33 +1,27 @@
 ***Graduation project GeekBrains***
+*Author: Yuzhakov Mikhail*
 
-_Author: Yuzhakov Mikhail_
-
-_*Content*_
-
+*Content*
 * Technical task
 * Application structure
 * Elements description
 * Results
 
-___ Technical task ___
-
+__Technical task__
 The purpose of this work is to develop a repository for soil-climatic parameters.
 Requirements:
 - The data must be stored in a relational database.
 - To interact with endpoint devices, a TCP (TLS) server must be implemented.
 - ...
 
-___ Application structure ___
-
+__Application structure__
 - Data base.
 - TCP/TLS Server.
 - HTTP Server.
 - Simple web-interface.
 
-___ Application structure ___
-
+__Application structure__
 - ...
 
-___ Results ___
-
+__Results__
 Somthing information.
